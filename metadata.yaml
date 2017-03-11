@@ -1,5 +1,8 @@
 _repo: Tom-Sawyer-Abroad_91
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Twain, Mark
@@ -14,6 +17,8 @@ creator:
 description: "Tom Sawyer Abroad is a novel by Mark Twain published in 1894. It features\
   \ Tom Sawyer and Huckleberry Finn in a parody of adventure stories like those of\
   \ Jules Verne.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/91#Tom-Sawyer-Abroad
 gutenberg_issued: '2004-09-14'
 gutenberg_type: Text
 identifiers:
